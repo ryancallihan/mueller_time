@@ -6,8 +6,8 @@
         4190,
         300
       ],
-      "tensorPath": "https://raw.githubusercontent.com/ryancallihan/mueller_time/master/tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/ryancallihan/mueller_time/master/words.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/ryancallihan/mueller_time/master/data/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ryancallihan/mueller_time/master/data/words.tsv"
     }
   ]
 }
