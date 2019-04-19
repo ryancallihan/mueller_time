@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Mueller Report",
+      "tensorShape": [
+        4190,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ryancallihan/mueller_time/master/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ryancallihan/mueller_time/master/words.tsv"
+    }
+  ]
+}
